@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+		<xs:simpleType name="name">
+			<xs:restriction base="xs:string">
+				<xs:maxLength value="50"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<xs:simpleType name="moduleCode">
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[A-Z]{3}[0-9]{3}"/>
+				</xs:restriction>
+		</xs:simpleType>
+  
+  		<xs:simpleType name="moduleName">
+				<xs:restriction base="xs:string">
+					<xs:maxLength value="50"/>
+				</xs:restriction>
+		</xs:simpleType>
+
+		<xs:simpleType name="priority">
+			<xs:restriction base="xs:integer">
+				<xs:minExclusive value="0"/>
+				<xs:maxInclusive value="100"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<xs:simpleType name="tag">
+			<xs:restriction base="xs:string">
+				<xs:maxLength value="25"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<xs:complexType name="tags">
+			<xs:sequence>
+				<xs:element type="tag" name="tag" minOccurs="1" maxOccurs="unbounded">
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+
+		<xs:simpleType name="qna">
+			<xs:restriction base="xs:string">
+				<xs:maxLength value="225"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<xs:complexType name="faqRes">
+			<xs:sequence>
+				<xs:element type="tags" name="tags">
+				</xs:element>
+				<xs:element type="qna" name="quuestion">
+				</xs:element>
+				<xs:element type="qna" name="answer">
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute type="xs:integer" name="priority" use="optional"/>
+		</xs:complexType>
+
+<xs:element name="faqs">
+	<xs:complexType>
+	<xs:choice>
+		<xs:element name="module" minOccurs="1" maxOccurs="unbounded">
+			<xs:complexType>
+						<xs:attribute name="name" type="moduleName" use="required"/>
+						<xs:attribute name="code" type="moduleCode" use="required"/>
+			</xs:complexType>
+			<xs:element type="faqRes" name="faq" maxOccurs="unbounded" minOccurs="0">
+			</xs:element>
+		</xs:element>
+	</xs:choice>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

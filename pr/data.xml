@@ -1,0 +1,5471 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<faqs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceShemaLocation="modules.xsd">
+	<module code="AIM111" name="Academic Information Management 111">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>This module is compulsory.</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module teaches you to find, evaluate, process, manage and present information for academic purposes using appropriate technology.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>4 Credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 40 nominal hours, but you can expect to spend 2 hours a week in contact classes.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes. This module will have assignments and quizzes.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>All fields of study at the University of Pretoria are required to take AIM.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures per week.</answer>
+		</faq>
+	</module>
+	<module code="AIM121" name="Academic Information Management 121">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>This module is compulsory.</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>The second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Apply effective search strategies in different technological environments. Demonstrate the ethical and fair use of information resources. Integrate 21st-century communications into the management of academic information.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>4 Credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 40 nominal hours, but you can expect to spend 2 hours a week in contact classes.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes. This module will have assignments and quizzes.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>All fields of study at the University of Pretoria are required to take AIM.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures per week.</answer>
+		</faq>
+	</module>
+	<module code="ALL121" name="Academic literacy for information technology 121">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes. This module is compulsory.</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This is a second semester module.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>By the end of this module students should be able to cope more confidently and competently with the reading, writing and critical thinking demands that are characteristic of the field of Information Technology.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module is 6 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>You will need access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>You may be exempted if you have already completed this module in a previous degree or have achieved a 70% or higher average in English in matric.</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 60 nominal hours, but you can expect to spend 2 hours a week in contact classes.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continious assessment.</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors suring class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Bcom Imformation Systems, BIS Publishing, BIS Information Science,  BIS Multimedia, BIT Information Systems, BSc Computer Science, BSc Information and Knowledge Systems</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This lecture has one web-based session and two lectures per week.</answer>
+		</faq>
+	</module>
+	<module code="UPO112" name="Academic orientation 112">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module is an academic orientation module and will serve to aquaint you with the university, the services, structures and overall composition of your degree. It will teach you where information is obtained and which protocols to follow throughout your studies.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 0 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 0 nominal hours, but you can expect to spend approximately 40 hours on this module.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any modules</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are quizes and minor assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>This module is compulsory for all degrees in the BEng, BIS, BIT and several BSc degrees relating to information management and studies.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Unlisted</answer>
+		</faq>
+	</module>
+	<module code="IMY110" name="Multimedia 110">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Mark-up Languages. This module explores the role of mark-up languages in the information environment; the difference between the logical structure and the appearance of documents; the study of HTML, CSS and XHTML; the building of websites and basic information architecture.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 12 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 120 nominal hours, but you can expect to spend 2 hours a week in contact classes as well as 1 hour per week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for IMY 120</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are quizes, assignments and a semester project</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>This module is solely for students in the BIS Multimedia degree.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two lectures and two practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="IMY120" name="Multimedia 120">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Multimedia for the Web. This module introduces the process of creating and editing images, animation, basic interactive content, and sound for the web using multimedia authoring tools, such as Adobe Photoshop, Adobe Flash (with basic ActionScript), and Adobe Audition.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed IMY 110 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 12 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 120 nominal hours, but you can expect to spend 2 hours a week in contact classes as well as 1 hour per week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for IMY 210 and 211</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>This module is solely for students in the BIS Multimedia degree.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two lectures and two practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="INL110" name="Information science 110">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module is an introduction to the study field of information science and its various professions. Key concepts that will be discussed include the following: the human as information processor and user; the life-cycle of information in terms of processes, products and role-players; as well as the communication of information. The social-ethical impact of globalisation is included as a key concern, with reference to Africa, the 4th Industrial Revolution and other revolutions to come are addressed as well as core principles such as equity, diversity and inclusion.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 12 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 120 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 1 hour per week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any second year modules</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are quizes and assignments as well as group work</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students in BIS Publishing, Information Science and Multimedia as well as students in BIT Information Systems, BA, BA Visual Studies and BPolSci Political studies will be required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="INL120" name="Academic Information Management 111">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module offers a brief overview of the basic principles and processes underlying the organisation, representation, and structuring of information. The process of organising information on the web (such as social networking sites), in multimedia formats, by means of document image processing and in databases is dealt with. Themes on the representation of information through the creation of metadata include various general and domain specific metadata schemas such as Dublin Core for the web, as well as the various retrieval and management tools available for metadata. Practical classes include basic HTML and the design of web pages incorporating and applying what was covered in theory.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 12 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 120 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 1 hour per week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any second year modules</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are quizes and assignments as well as group work</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students in BIS Publishing, Information Science and Multimedia as well as students in BIT Information Systems, BA, BA Visual Studies and BPolSci Political studies will be required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has three lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS132" name="Imperative programming 132">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module introduces imperative computer programming, which is a fundamental building block of computer science. The process of constructing a program for solving a given problem, of editing it, compiling, running and debugging it, is covered from the beginning. The aim is to master the elements of a programming language. After completing this module, the student should understand the fundamental elements of a program and the importance of good program design.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have an APS of 30 and a level 5 (60-69%) in Mathematics to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer and the appropriate textbook</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 1 hour per week in practical and tutorial sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>This module has three lectures, one practical and one tutorial per week.</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for COS 110 and 122</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are weekly practicals</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students in BCom Statistics and Data Science, BEng Computer Engineering, Electrical Engineering, Electronic Engineering, BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Applied Mathematics, Mathematical Statistics, Mathematics and Physics will be required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has three lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS110" name="Program design 110">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>The focus is on object-oriented (OO) programming. Concepts including inheritance and multiple inheritance, polymorphism, operator overloading, memory management (static and dynamic binding), interfaces, encapsulation, reuse, etc. will be covered in the module. The module teaches sound program design with the emphasis on modular code, leading to well structured, robust and documented programs. A modern OO programming language is used as the vehicle to develop these skills. The module will introduce the student to basic data structures, lists, stacks and queues.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed both COS 132 and COS 151 as well as have a Maths level of 5 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer and the appropriate textbook</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 1 hour per week in practical and tutorial sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for COS 212, 216, 214, 226 and 284 as well as IMY 220</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are weekly practicals and regular assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students in BEng Computer Engineering, BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Applied Mathematics, Physics and in the BSc extended programme for Mathematical Sciences are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has three lectures, one practical and one tutorial per week.</answer>
+		</faq>
+	</module>
+	<module code="COS151" name="Introduction to computer science 151">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module introduces concepts and terminology related to the computer science discipline. General topics covered include the history of computing, machine level representation of data, Boolean logic and gates, basic computer systems organisation, algorithms and complexity and automata theory. The module also introduces some of the subdisciplines of computer science, such as computer networks, database systems, compilers, information security and intelligent systems. The module also focues on modelling of algorithms.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have an APS of 30 and a level 5 (60-69%) in Mathematics to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 8 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer and the appropriate textbook</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 80 nominal hours, but you can expect to spend 2 hours a week in contact classes as well as 1 hour per week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for COS 110 and 122</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are quizes and assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students in BIS Multimedia, BIT, BSc Computer Science, Information and Knowledge Systems, Mathematical Statistics and Physics are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has three lectures, one practical and one tutorial per week.</answer>
+		</faq>
+	</module>
+	<module code="COS122" name="Operating systems 122">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Fundamental concepts of modern operating systems in terms of their structure and the mechanisms they use are studied in this module. After completing this module, students will have gained, as outcomes, knowledge of real time, multimedia and multiple processor systems, as these will be defined and analysed. In addition, students will have gained knowledge on modern design issues of process management, deadlock and concurrency control, memory management, input/output management, file systems and operating system security. In order to experience a hands-on approach to the knowledge students would have gained from studying the abovementioned concepts, students will have produced a number of practical implementations of these concepts using the Windows and Linux operating systems.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 132 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>This module has two lectures and one practical per week.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 1 hour per week in practical and tutorial sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for COS 212, 216, 214, 226 and 284</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are assignments and practical tests</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students in BCom Statistics and Data Science, BEng Computer Engineering, BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Mathematical Statistics and Physics are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has three lectures, one practical and one tutorial per week.</answer>
+    </faq>
+	</module>
+	<module code="VIO102" name="Visual design 102">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a first year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This is a year module and will be presented throughout the year.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Introduction to elements and principles of design, typography and layout. Application of visual principles and techniques. Media characteristics. The design process.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have a 5 for Mathematics or WTW 114, 113 or 143 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits.</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer and various art supplies</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 1 hour1 a week in contact classes as well as 1 hour per week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for VIO 202</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are assignments throughout the year with a big project due at the end</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>No, you will liase directly with the lecurers</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>This module is only for students studying BIS Multimedia</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has one lecture, and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="JCP202" name="Community-based project 202">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This is a year module and will be conducted throughout the year.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module is integrated into all undergraduate academic programmes offered by the Faculty. Main objectives: execution of a community project aimed at achieving a beneficial impact on a section of a socio-economically underprivileged community located in socio-economically deprived areas our society; awareness of personal, social and cultural values and an understanding of social issues; and development of life skills.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 8 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer as well skills and materials related to your community project.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 80 nominal hours, but you can expect to spend 40 hours on your community project.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any other modules</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>There are assignments and a large final project.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Information Science, BIS Multimedia, BIS Publishing, BIT Information Systems, BSc Computer Science and BSc Information and Knowledge Systems are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has one week of contact time.</answer>
+		</faq>
+	</module>
+	<module code="IMY210" name="Multimedia 210">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Advanced Markup Languages 1. This module investigates XML and its related technologies (such as XSLT, XPath, XSL-FO, DTD, XML Schema, and namespaces) as a vital part of the web development process.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed IMY 110 or have equivalent HTML knowledge to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 2 hours a week in contact classes as well as 2 hours a week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for IMY 220</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both theory and practical assignments as well as a semester project.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia, BIT and BSc Information and Knowledge Systems are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two lectures and two practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="IMY220" name="Multimedia 220">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Advanced Markup Languages 2. This module assumes knowledge of dynamic scripts and basic web based technologies such as PHP as well as the use of relational databases like MySQL. The module explores the interplay between scripting languages, databases, and current industry standard web technologies, from both the server-side and client-side perspectives. The module has a focus on developing hands-on practical skills.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed IMY 210 as well as COS 216 in order to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 2 hours a week in contact classes as well as 2 hours a week in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for IMY 300 and 310</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both theory and practical assignments as well as a semester project</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia and BSc Information and Knowledge Systems are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two lectures and two practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="IMY211" name="Multimedia 211">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Multimedia and hypermedia theory. This module offers the opportunity to make a thorough study of the theory and applications of multimedia and hypermedia. This includes: multimedia products, multimedia authoring tools, hypermedia databases, digital publications on the World Wide Web, New Media, as well as information architecture, websites and the social realities and impact of the World Wide Web.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You require departmental selection to take this module. It is advised that you complete IMY 120 in order to prepare for this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 20 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 200 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 2 hours in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Continiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both theory and practical assignments as well as practical sessions.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>This module is only accessible to students studying BIS Multimedia.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two lectures and two practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="PUB210" name="Publishing 210">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Copy-editing. This module offers an introduction to copy-editing as a phase in the publishing process. Topics covered are the role of the copy-editor in the publishing value chain; the levels of editing; the responsibilities of the copy-editor towards the manuscript, the author and the publishing house; the responsibilities and skills of the proof-reader; typical problems in texts; proof-reading and copy-editing symbols and the mark-up of texts; as well as legal and ethical aspects of editing. Learners are also equipped with practical skills in proofreading and copy-editing both digital and print-based texts.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>20</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 200 nominal hours, but you can expect to spend 3 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any module</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Publishing and BIS Multimedia</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has three classes and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="COS212" name="Software modeling 212">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Data abstraction is a fundamental concept in the design and implementation of correct and efficient software. In prior modules, students are introduced to the basic data structures of lists, stacks and queues. This module continues with advanced data structures such as trees, hash tables, heaps and graphs, and goes into depth with the algorithms needed to manipulate them efficiently. Classical algorithms for sorting, searching, traversing, packing and game playing are included, with an emphasis on comparative implementations and efficiency. At the end of this module, students will be able to identify and recognise all the classical data structures; implement them in different ways; know how to measure the efficiency of implementations and algorithms; and have further developed their programming skills, especially with recursion and polymorphism.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass COS 110 in order to take this module</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 4 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for IMY 220 and 300 as well as COS 214, 226, 284, 301 and 341</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both assignments and practical assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BEng Computer Engineering, BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Applied Mathematics, Mathematics and Physics are required to take this module</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has four classes and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="COS216" name="Netcentric computer systems 216">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module will introduce the student to netcentric systems by focusing on the development of systems for the web, mobile devices and the cloud. To lay the foundation on which the rest of the module can follow, programming languages such as HTML5, JavaScript, CSS and Python. These technologies will be extended and applied to mobile platforms where the availability of a connection, location-services and mobile device limitations play a role. In order to practically demonstrate that a student has reached these outcomes, students will be required to use, integrate and maintain the necessary software and hardware by completing a number of smaller practical assignments where after integrating all these technologies into a comprehensive and practical programming project is required.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass COS 110 in order to take this module</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 4 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for IMY 220 as well as COS 332</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both assignments and practical assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Applied Mathematics and Mathematics will be required to take this module</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has four classes and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="COS214" name="Software modeling 214">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>The module will introduce the concepts of model-driven analysis and design as a mechanism to develop and evaluate complex software systems. Systems will be decomposed into known entities, such as design patterns, classes, relationships, execution loops and process flow, in order to model the semantic aspects of the system in terms of structure and behaviour. An appropriate tool will be used to support the software modelling. The role of the software model in the enterprise will be highlighted. Students who successfully complete this module will be able to concep-tualise and analyse problems and abstract a solution.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass COS 212 in order to take this module</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 4 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any modules</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both assignments and practical assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Applied Mathematics and Mathematics will be required to take this module</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has four classes and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="COS226" name="Concurrent systems 226">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Computer science courses mostly deal with sequential programs. This module looks at the fundamentals of concurrency; what it means, how it can be exploited, and what facilities are available to determine program correctness. Concurrent systems are designed, analysed and implemented.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass COS 122 and 212 in order to take this module</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 4 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is a prerequisite for COS 326</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both assignments and practical assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia, BSc Computer Science, Information and Knowledge Systems and Physics will be required to take this module</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has four classes and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="COS284" name="Computer organization and architecture 284">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module enables a deeper understanding of how software interacts with hardware. It studies each of the components that make up a computer and the interaction between these components. Specific areas of interest are: representation of data; organisation of the machine on the assembly level; the architecture and organisation of memory; inter- and intra-component interfacing and communication; data paths and control; and parallelism. 
+			The concepts presented in the theory lectures will be reinforced during the practical sessions by requiring design and implementation of the concepts in simulators and assembly language using an open source operating system.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass COS 212 GS in order to take this module</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 16 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 160 nominal hours, but you can expect to spend 4 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any module</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has both assignments and practical assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia, BSc Computer Science, Information and Knowledge Systems, Applied Mathematics, Mathematics and Physics will be required to take this module</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has four classes and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="VIO202" name="Visual design 202">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a second year module.</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This is a year module and will be presented for the full academic year.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Visual analysis and interpretation. Design function and specific applications in the electronic environment. Aesthetic, functional and communicative evaluation of design.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass VIO 102 in order to take this module</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 24 credits</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer as well as art supplies</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 240 nominal hours, but you can expect to spend 1 hour a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any module</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module has weekly assignments</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>This module is only accessible to students studying BIS Multimedia.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has one class and one practical session per week</answer>
+		</faq>
+	</module>
+	<module code="IMY300" name="Multimedia: Project 300">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This is a year module and will be presented throughout the academic year.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>The module enables students to combine all their knowledge gained through out their studies to create a functional game. The course consists of extensive game design theory teaching. The students create a game by following an iterative design process, extensive documentation and in depth play testing and usability testing. The final product is a creative, innovative and complete game.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You are required to complete and pass COS 212 in order to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>This module has 45 credits. </answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 450 nominal hours, but you can expect to spend 2 hours a week in contact classes as well as 1 hour in practical sessions.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for any modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>This module will have several assignments and a final year project.</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>You will have access to tutors during class time and during tutorial sessions.</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>Students studying BIS Multimedia and BIT are required to take this module.</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>This module has two classes and one practical session per week.</answer>
+		</faq>
+	</module>
+	<module code="IMY310" name="Multimedia 310">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Human-computer Interaction. This module involves a study of human-computer interaction and human-information interaction; humans as computer and information users; and the ethical aspects relating to the creation of multimedia information products. A detailed study of the role, composition and functioning of an interface, underlying principles in the design and evaluation of interfaces, will also be undertaken.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>30</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 300 nominal hours, but you can expect to spend 3 hours a week in contact classes and 3 hours in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia and BSc Information and Knowledge Systems</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Three lectures and three practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="IMY320" name="Multimedia 320">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Trends. This module deals with technical aspects of multimedia hardware and software, digital video and audio formats and compression; and version management. A detailed study of the latest developments in mark-up languages and related technologies will also be undertaken.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>This module has no prerequisites</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>30</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 300 nominal hours, but you can expect to spend 3 hours a week in contact classes and 3 hours in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Three lectures and three practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="COS330" name="Computer security and ethics 330">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Students will develop a clear understanding of the basic information security services and mechanisms, enabling them to design and evaluate the integration of solutions into the user application environment. Emphasis will be placed on services such as authorisation and confidentiality. Students will acquire knowledge and skills of Security Models such as the Bell-LaPadula, Harrison-Ruzzo Ullman and Chinese Wall Model as well as a detailed understanding of the confidentiality service by focusing on cryptology and the practical implementation thereof. The student will be introduced to professional and philosophical ethics. At the end of the module students will be able to engage in a debate regarding the impact of computers on individuals, organisations and society.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 110 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BIT, BSc Computer Science, BSc Information and Knowledge Systems and BSc Physics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS326" name="Database systems 326">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module builds on a prior introductory module on database technology and provides more advanced theoretical and practical study material for managing large volumes of data, for example, noSQL database systems and MapReduce. The module will consider file system models, for example Hadoop, relevant for big data storage, manipulation at scale, mining and visualisation. Basic knowledge of parallel decomposition concepts will be included.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 221 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 1 hour a week in contact classes and 2 hours in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BSc Computer Science, BSc Information and Knowledge Systems</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>One lecture and two practicals per week.</answer>
+		</faq>
+	</module>
+	<module code="COS341" name="Compiler construction 341">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>No, this module is an elective</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>This module will introduce the student to the fundamentals of compiler construction. These include: the structural difference between a high-level and a von-Neumann language, the meaning of syntax and semantics and what semantics-preserving correctness means; the concepts of regular expressions, finite automata, context-free grammars in the context of programming languages; the need to construct parse-trees for given programmes; the application of data structures and algorithms for the purpose of code-analysis, code-optimisation and register-allocation; and the limits of code-analysis in terms of undecideability and the halting problem.
+			After successful completion of the module, the student will have an understanding of the importance of compilers and will understand how to implement a compiler, in terms of its components, the scanner, parser, type checker and code-generator for a given grammar.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 110 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No, you must complete the module in order to gain the credits</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BIT, BSc Computer Science, BSc Information and Knowledge Systems and BSc Physics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS301" name="Software engineering 301">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>No, this module is an elective</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This is a year module and will be presented throughout the academic year.</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>"The module exposes students to problems associated with software development on an industrial scale. Students will become familiar with the latest trends in software engineering; understand the software engineering process and appreciate its complexity; to be exposed to a variety of methodologies regarding stages of the software lifecycle; to understand and apply the concepts of systems administration and maintenance; to complete the development of a fairly large software product. 
+			After the successful completion of this module, the student will be able to: understand the psychology of a client; work in groups; and have an appreciation for planning, designing, implementing and maintaining large projects. These qualities should place the students in a position in which they are able to handle software development in the corporate environment."</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 212 and 214 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>27</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No, you must complete the module in order to gain the credits</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 270 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BSc Computer Science, BSc Information and Knowledge Systems, BSc Applied Mathematics, BSc Mathematics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS332" name="Computer networks 332">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>No, this module is an elective</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>The objective of this module is to acquaint the student with the terminology of communication systems and to establish a thorough understanding of exactly how data is transferred in such communication networks, as well as applications that can be found in such environments. The study material includes: concepts and terminology, the hierarchy of protocols according to the OSI and TCP/IP models, protocols on the data level, physical level and network level as well as higher level protocols. The practical component of the module involves programming TCP/IP sockets using a high level language. The emphasis throughout is on the technical aspects underlying the operation of networks, rather than the application of networks.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 216 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No, you must complete the module in order to gain the credits</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BSc Computer Science, BSc Information and Knowledge Systems, BSc Applied Mathematics, BSc Mathematics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS333" name="programming languages 333">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>No, this module is an elective</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the second semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>Programming languages are the backbone for software development. Each language has its own different syntax and semantics, but there are many common concepts that can be studied and then illustrated through the languages. The module concentrates on issues of object orientation, including delegation, iteration and polymorphism. It surveys how languages provide the basic building blocks for data and control, as well as exception handling and concurrency. At the end of the module, students will be able to appreciate the rich history behind programming languages, leading to independent principles that evolve over time. They will be skilled at using a variety of programming languages, including new paradigms such as functional, logical and scripting, and will know how to learn a new language with ease. From this experience, they will be able to apply evaluation criteria for choosing an appropriate programming language in a given scenario.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 110 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No, you must complete the module in order to gain the credits</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BIT, BSc Computer Science, BSc Information and Knowledge Systems and BSc Physics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS344" name="Computer graphics 344">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>No, this module is an elective</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>The aim of this module is to acquire a sound knowledge of the basic theory of interactive computer graphics and basic computer graphics programming techniques. The theory will cover graphics systems and models, graphics programming, input and interaction, geometric objects and transformations, viewing in 3D, shading, rendering techniques, and introduce advanced concepts, such as object-oriented computer graphics and discrete techniques. The module includes a practical component that enables students to apply and test their knowledge in computer graphics. The OpenGL graphics library and the C programming language will be used for this purpose.</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 110 and WTW 124 or WTW 146 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No, you must complete the module in order to gain the credits</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BSc Computer Science, BSc Information and Knowledge Systems, BSc Applied Mathematics, BSc Mathematics and BSc Physics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+	<module code="COS314" name="Artificial intelligence 314">
+		<faq priority="1">
+			<tags>
+				<tag>Module shedule</tag>
+				<tag>Year of study</tag>
+			</tags>
+			<question>Which year of study is this module for?</question>
+			<answer>This is a third year module</answer>
+		</faq>
+		<faq priority="2">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Compulsory</tag>
+			</tags>
+			<question>Is this module compulsory?</question>
+			<answer>No, this module is an elective</answer>
+		</faq>
+		<faq priority="3">
+			<tags>
+				<tag>Module schedule</tag>
+				<tag>Timetable</tag>
+			</tags>
+			<question>Which semester is this module presented in?</question>
+			<answer>This module is presented in the first semester</answer>
+		</faq>
+		<faq priority="4">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Aims</tag>
+			</tags>
+			<question>What does this module teach me?</question>
+			<answer>"The main objective of this module is to introduce a selection of topics from artificial intelligence (AI), and to provide the student with the background to implement AI techniques for solving complex problems.
+			This module will cover topics from classical AI, as well as more recent AI paradigms. These topics include: search methods, game playing, knowledge representation and reasoning, machine learning, neural networks, genetic algorithms, artificial life, planning methods, and intelligent agents. In the practical part of this module, students will get experience in implementing
+			(1) game trees and evolving game-playing agents;
+			(2) a neural network and applying it to solve a real-world problem; and
+			(3) a genetic algorithm and applying it to solve a real-world problem."</answer>
+		</faq>
+		<faq priority="5">
+			<tags>
+				<tag>Module prerequisites</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What are the prerequisites for this module?</question>
+			<answer>You must have completed and passed COS 110 to take this module.</answer>
+		</faq>
+		<faq priority="6">
+			<tags>
+				<tag>Module content</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How many credits is this module?</question>
+			<answer>18</answer>
+		</faq>
+		<faq priority="7">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What equipment will I require for this module?</question>
+			<answer>Access to a computer.</answer>
+		</faq>
+		<faq priority="8">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>Can I get exempted from this module?</question>
+			<answer>No, you must complete the module in order to gain the credits</answer>
+		</faq>
+		<faq priority="9">
+			<tags>
+				<tag>Module importance</tag>
+				<tag>Assesment</tag>
+				<tag>Exemptions</tag>
+			</tags>
+			<question>What happens if I don’t make exam entrance?</question>
+			<answer>You will need to repeat the module in order to proceed.</answer>
+		</faq>
+		<faq priority="10">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+				<tag>Module weight</tag>
+				<tag>Module importance</tag>
+			</tags>
+			<question>How much time can I expect to spend on this module?</question>
+			<answer>This module has 180 nominal hours, but you can expect to spend 2 hours a week in contact classes and 1 hour in practicals.</answer>
+		</faq>
+		<faq priority="11">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>What is the assessment style?</question>
+			<answer>Contiuous assessment</answer>
+		</faq>
+		<faq priority="12">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>Where do I find my schedule, due dates and test dates?</question>
+			<answer>You will be provided with your schedule and all other relevant dates through the study guide and the student portal as well as the yearbook.</answer>
+		</faq>
+		<faq priority="13">
+			<tags>
+				<tag>Module requirements</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>What is this module a prerequisite for?</question>
+			<answer>This module is not a prerequisite for other modules.</answer>
+		</faq>
+		<faq priority="14">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+			</tags>
+			<question>Are there any assignments or projects?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="15">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Hybrid learning</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Will I have access to tutors?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="16">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Assesment</tag>
+				<tag>Teaching method</tag>
+			</tags>
+			<question>Does this module have practical sessions?</question>
+			<answer>Yes</answer>
+		</faq>
+		<faq priority="17">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Requirements</tag>
+			</tags>
+			<question>Which other degrees require this module?</question>
+			<answer>BIS Multimedia, BIT, BSc Computer Science, BSc Information and Knowledge Systems and BSc Physics</answer>
+		</faq>
+		<faq priority="18">
+			<tags>
+				<tag>Module structure</tag>
+				<tag>Module content</tag>
+				<tag>Module schedule</tag>
+			</tags>
+			<question>How much contact time does this module have?</question>
+			<answer>Two lectures and one practical per week.</answer>
+		</faq>
+	</module>
+</faqs>
