@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const xml2js = require('xml2js');
 const cors = require('cors');
 const fs = require('fs');
+const port = 6969;
 
 const app = express();
 const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
@@ -23,12 +24,32 @@ app.get('/api/faqs', async (request, result) => {
 	}
 });
 
-//GET ALL MODULES OPERATION
+//CREATE SPECIFIC MODULES OPERATION
+app.post('/api/faqs/:code', async (request, result) => {
+	try {
+		const data = await accessXDB();
+		const faqs = data.faqs.module;
+		// const module = faqs.find((item) => item.code === request.params.code);
+		const module = retrieveModule(faqs, request.params.code);
+		if (module) {
+			module.faq.push(request.body);
+			updateXDB(data);
+			result.status(201).json({ message: 'FAQ created successfully' });
+		} else {
+			result.status(404).json({ error: 'Module not found' });
+		}
+	} catch (error) {
+		result.status(500).json({ error: 'Failed to create FAQ' });
+	}
+});
+
+//READ ALL MODULES OPERATION
 app.get('/api/faqs/:code', async (request, result) => {
 	try {
 		const data = await accessXDB();
 		const faqs = data.faqs.module;
-		const module = faqs.find((item) => item.code === request.params.code);
+		// const module = faqs.find((item) => item.code === request.params.code);
+		const module = retrieveModule(faqs, request.params.code);
 		if (module) {
 		result.json(module);
 	} else {
@@ -39,30 +60,13 @@ app.get('/api/faqs/:code', async (request, result) => {
 	}
 });
 
-//GET SPECIFIC MODULES OPERATION
-app.post('/api/faqs/:code', async (request, result) => {
-	try {
-		const data = await accessXDB();
-		const faqs = data.faqs.module;
-		const module = faqs.find((item) => item.code === request.params.code);
-		if (module) {
-		module.faq.push(request.body);
-		updateXDB(data);
-		result.status(201).json({ message: 'FAQ created successfully' });
-		} else {
-		result.status(404).json({ error: 'Module not found' });
-		}
-	} catch (error) {
-		result.status(500).json({ error: 'Failed to create FAQ' });
-	}
-});
-
-// PUT MODULE OPERATION
+// UPDATE MODULE OPERATION
 app.put('/api/faqs/:code/:priority', async (request, result) => {
 	try {
 		const data = await accessXDB();
 		const faqs = data.faqs.module;
-		const module = faqs.find((item) => item.code === request.params.code);
+		// const module = faqs.find((item) => item.code === request.params.code);
+		const module = retrieveModule(faqs, request.params.code);
 		if (module) {
 		const faq = module.faq.find((item) => item.priority === request.params.priority);
 		if (faq) {
@@ -75,7 +79,7 @@ app.put('/api/faqs/:code/:priority', async (request, result) => {
 			result.status(404).json({ error: 'FAQ not found' });
 		}
 		} else {
-		result.status(404).json({ error: 'Module not found' });
+			result.status(404).json({ error: 'Module not found' });
 		}
 	} catch (error) {
 		result.status(500).json({ error: 'Failed to update FAQ' });
@@ -96,12 +100,15 @@ app.delete('/api/faqs/:code/:priority', async (request, result) => {
 				result.json({ message: 'FAQ deleted successfully' });
 			} else {
 				result.status(404).json({ error: 'FAQ not found' });
+				console.log('FAQ not found');
 			}
 		} else {
-		result.status(404).json({ error: 'Module not found' });
+			result.status(404).json({ error: 'Module not found' });
+			console.log('Module not found');
 		}
 	} catch (error) {
 		result.status(500).json({ error: 'Failed to delete FAQ' });
+		console.log(error.message);
 	}
 });
 
@@ -132,14 +139,15 @@ function retrieveModule(modules, code){
 function findFAQIndex(moduleFaqs, faqPriority){
 	var ind = -1;
 	for (let f = 0; f < moduleFaqs.length; f++){
-		if (module[f].priority == faqPriority){
-		ind = f;
+		console.log(moduleFaqs == faqPriority);
+		if (moduleFaqs[f].priority == faqPriority, true){
+			ind = f;
 		}
 	}
 	return ind;
 }
 
 // Start the server
-app.listen(3000, () => {
-	console.log('Server is running on port 3000');
+app.listen(port, () => {
+	console.log(`Server is running on port ${port}`);
 });

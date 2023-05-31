@@ -51,7 +51,7 @@
     methods: {
       async fetchModules() {
         try {
-          const response = await fetch('http://localhost:3000/api/faqs');
+          const response = await fetch('http://localhost:6969/api/faqs');
           if (!response.ok) {
             throw new Error('Failed to fetch modules');
           }
@@ -59,12 +59,12 @@
           this.modules = data;
         } catch (error) {
           console.error(error);
-          alert('Failed to fetch modules');
+          console.log('Failed to fetch modules');
         }
       },
       async fetchFAQs(moduleCode) {
         try {
-          const response = await fetch(`http://localhost:3000/api/faqs/${moduleCode}`);
+          const response = await fetch(`http://localhost:6969/api/faqs/${moduleCode}`);
           if (!response.ok) {
             throw new Error('Failed to fetch FAQs');
           }
@@ -73,7 +73,7 @@
           this.selectedModule = moduleCode;
         } catch (error) {
           console.error(error);
-          alert('Failed to fetch FAQs');
+          console.log('Failed to fetch FAQs');
         }
       },
       addQuestion() {
@@ -85,7 +85,7 @@
               answer: this.newAnswer,
             };
   
-            fetch(`http://localhost:3000/api/faqs/${module.code}`, {
+            fetch(`http://localhost:6969/api/faqs/${module.code}`, {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',
@@ -109,7 +109,7 @@
               })
               .catch((error) => {
                 console.error(error);
-                alert('Failed to add question');
+                console.log('Failed to add question');
               });
           }
         }
@@ -125,7 +125,7 @@
               answer: faq.answer,
             };
   
-            fetch(`http://localhost:3000/api/faqs/${module.code}/${faq.priority}`, {
+            fetch(`http://localhost:6969/api/faqs/${module.code}/${faq.priority}`, {
               method: 'PUT',
               headers: {
                 'Content-Type': 'application/json',
@@ -144,7 +144,7 @@
               })
               .catch((error) => {
                 console.error(error);
-                alert('Failed to update question');
+                console.log('Failed to update question');
               });
           }
         }
@@ -153,10 +153,14 @@
         const module = this.modules.find((module) => module.code === this.selectedModule);
         if (module) {
           if (confirm('Are you sure you want to delete this question?')) {
-            fetch(`http://localhost:3000/api/faqs/${module.code}/${faq.priority}`, {
-              method: 'DELETE',
-            })
+            console.log(faq);
+            const reqOptions = {
+              method: 'DELETE'
+            }
+            fetch(`http://localhost:6969/api/faqs/` + module.code + `/` + faq.priority, reqOptions)
               .then((response) => {
+                console.log("_________________"+response.ok + "________________");
+
                 if (!response.ok) {
                   throw new Error('Failed to delete question');
                 }
@@ -167,17 +171,42 @@
                 console.log(data.message);
   
                 // Update the local data
-                const index = module.faq.findIndex((item) => item.priority === faq.priority);
-                if (index > -1) {
-                  module.faq.splice(index, 1);
+                // const index = module.faq.findIndex((item) => item.priority === faq.priority);
+                var ind = -1;
+                for (let f = 0; f < module.faq.length; f++) {
+                  if (module[f].priority == faq.priority) {
+                    ind = f;
+                  }
+                }
+                if (ind > -1) {
+                  module.faq.splice(ind, 1);
                 }
               })
               .catch((error) => {
                 console.error(error);
-                alert('Failed to delete question');
+                console.log('Failed to delete question');
               });
           }
         }
+      },
+      retrieveModule(modules, code){
+        var module = null;
+        for (let m = 0; m < modules.length; m++) {
+          if (modules[m].code == code) {
+            module = modules[m];
+          }
+        }
+        return module;
+      },
+
+      findFAQIndex(moduleFaqs, faqPriority) {
+        var ind = -1;
+        for (let f = 0; f < moduleFaqs.length; f++) {
+          if (module[f].priority == faqPriority) {
+            ind = f;
+          }
+        }
+        return ind;
       },
     },
   };

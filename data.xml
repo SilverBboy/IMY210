@@ -1,85 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="style.xsl"?>
-<faqs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceShemaLocation="validate.xsd">
-	<!-- <faqs> can hold infinite <module> itemss-->
-	<module code="IMY210" name="Advance Markup Languages">
-		<faq priority="10">
-			<tags>
-				<tag>Description</tag>
-				<tag>About module</tag>
-			</tags>
-			<question>What is this module about?</question>
-			<answer>Advanced Markup Languages 1. This module investigates XML and its related technologies (such as XSLT, XPath,
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<faqs>
+  <xmlns:xsi>http://www.w3.org/2001/XMLSchema-instance</xmlns:xsi>
+  <xsi:noNamespaceShemaLocation>validate.xsd</xsi:noNamespaceShemaLocation>
+  <module>
+    <code>IMY210</code>
+    <name>Advance Markup Languages</name>
+    <faq>
+      <priority>10</priority>
+      <tags>
+        <tag>Description</tag>
+        <tag>About module</tag>
+      </tags>
+      <question>What is this module about?</question>
+      <answer>Advanced Markup Languages 1. This module investigates XML and its related technologies (such as XSLT, XPath,&#xD;
 XSL-FO, DTD, XML Schema, and namespaces) as a vital part of the web development process.</answer>
-		</faq>
-
-		<faq priority="15">
-			<tags>
-				<tag>Module</tag>
-				<tag>Course Year</tag>
-				<tag></tag>
-			</tags>
-			<question>Year of Study?</question>
-			<answer>IMY210 is a 2nd year module</answer>
-		</faq>
-
-		<faq priority="23">
-			<tags>
-				<tag>Credits</tag>
-				<tag>Study time</tag>
-			</tags>
-			<question>How many credits does this module have?</question>
-			<answer>A minimum of 16.00</answer>
-		</faq>
-
-		<faq priority="20">
-			<tags>
-				<tag>Study guide</tag>
-				<tag>Guide</tag>
-			</tags>
-			<question>Where can I get the study guide?</question>
-			<answer>ClickUP</answer>
-		</faq>
-	</module>
-	<module code="IMY211" name="Multimedia and hypermedia theory.">
-		<faq priority="10">
-			<tags>
-				<tag>Description</tag>
-				<tag>About module</tag>
-			</tags>
-			<question>What is this module about?</question>
-			<answer>This module offers the opportunity to make a thorough study of the theory
-and applications of multimedia and hypermedia. This includes: multimedia products, multimedia authoring tools,
-hypermedia databases, digital publications on the World Wide Web, New Media, as well as information
+    </faq>
+    <faq>
+      <priority>15</priority>
+      <tags>
+        <tag>Module</tag>
+        <tag>Course Year</tag>
+        <tag/>
+      </tags>
+      <question>Year of Study?</question>
+      <answer>IMY210 is a 2nd year module</answer>
+    </faq>
+    <faq>
+      <priority>23</priority>
+      <tags>
+        <tag>Credits</tag>
+        <tag>Study time</tag>
+      </tags>
+      <question>How many credits does this module have?</question>
+      <answer>A minimum of 16.00</answer>
+    </faq>
+    <faq>
+      <priority>20</priority>
+      <tags/>
+      <question>Where can I get the study guide?</question>
+      <answer>ClickUP</answer>
+    </faq>
+    <faq>
+      <question>why is it so difficult?</question>
+      <answer>Because.</answer>
+    </faq>
+  </module>
+  <module>
+    <code>IMY211</code>
+    <name>Multimedia and hypermedia theory.</name>
+    <faq>
+      <priority>10</priority>
+      <tags>
+        <tag>Description</tag>
+        <tag>About module</tag>
+      </tags>
+      <question>What is this module about?</question>
+      <answer>This module offers the opportunity to make a thorough study of the theory&#xD;
+and applications of multimedia and hypermedia. This includes: multimedia products, multimedia authoring tools,&#xD;
+hypermedia databases, digital publications on the World Wide Web, New Media, as well as information&#xD;
 architecture, websites and the social realities and impact of the World Wide Web</answer>
-		</faq>
-
-		<faq priority="15">
-			<tags>
-				<tag>Module</tag>
-				<tag>Course Year</tag>
-				<tag></tag>
-			</tags>
-			<question>Year of Study?</question>
-			<answer>IMY211 is a 2nd year module</answer>
-		</faq>
-
-		<faq priority="23">
-			<tags>
-				<tag>Credits</tag>
-				<tag>Study time</tag>
-			</tags>
-			<question>How many credits does this module have?</question>
-			<answer>A minimum of 20.00</answer>
-		</faq>
-
-		<faq priority="20">
-			<tags>
-				<tag>Study guide</tag>
-				<tag>Guide</tag>
-			</tags>
-			<question>Where can I get the study guide?</question>
-			<answer>ClickUP</answer>
-		</faq>
-	</module>
+    </faq>
+    <faq>
+      <priority>15</priority>
+      <tags/>
+      <question>Year of Study?</question>
+      <answer>IMY211 is a 2nd year module</answer>
+    </faq>
+    <faq>
+      <priority>23</priority>
+      <tags>
+        <tag>Credits</tag>
+        <tag>Study time</tag>
+      </tags>
+      <question>How many credits does this module have?</question>
+      <answer>A minimum of 20.00</answer>
+    </faq>
+    <faq>
+      <question>this is frustration</question>
+      <answer>yes</answer>
+    </faq>
+  </module>
 </faqs>
