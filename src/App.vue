@@ -1,18 +1,18 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <Fetch msg="Trying things"/>
+  <apiCalls msg="Trying things"/>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import Fetch from './components/Fetch.vue'
+import apiCalls from './components/apiCalls.vue'
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    Fetch,
+    apiCalls,
   }
 }
 </script>

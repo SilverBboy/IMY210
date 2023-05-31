@@ -23,7 +23,7 @@
   
   <script>
   export default {
-    name: 'FeTch',
+    name: 'apiCalls',
     data() {
       return {
         modules: [],
@@ -58,7 +58,7 @@
           const data = await response.json();
           this.modules = data;
         } catch (error) {
-          console.error(error);
+          console.error(error.message);
           console.log('Failed to fetch modules');
         }
       },
@@ -69,10 +69,11 @@
             throw new Error('Failed to fetch FAQs');
           }
           const data = await response.json();
+          console.log(data, "++++++++++++++++++++++++++++++++++++++");
           this.faqs = data.faq;
           this.selectedModule = moduleCode;
         } catch (error) {
-          console.error(error);
+          console.error(error.message);
           console.log('Failed to fetch FAQs');
         }
       },
@@ -108,7 +109,7 @@
                 this.newAnswer = '';
               })
               .catch((error) => {
-                console.error(error);
+                console.error(error.message);
                 console.log('Failed to add question');
               });
           }
@@ -143,7 +144,7 @@
                 console.log(data.message);
               })
               .catch((error) => {
-                console.error(error);
+                console.error(error.message);
                 console.log('Failed to update question');
               });
           }
@@ -183,7 +184,7 @@
                 }
               })
               .catch((error) => {
-                console.error(error);
+                console.error(error.message);
                 console.log('Failed to delete question');
               });
           }

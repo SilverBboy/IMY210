@@ -75,6 +75,12 @@ architecture, websites and the social realities and impact of the World Wide Web
       <question>How many credits does this module have?</question>
       <answer>A minimum of 20.00</answer>
     </faq>
+	<faq>
+		<priority>20</priority>
+		<tags />
+		<question>Where can I get the study guide?</question>
+		<answer>ClickUP</answer>
+	</faq>
     <faq>
       <question>this is frustration</question>
       <answer>yes</answer>
