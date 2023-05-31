@@ -1,131 +1,145 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const xml2js = require('xml2js');
-const fs = require('fs');
 const cors = require('cors');
+const fs = require('fs');
 
 const app = express();
 const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
-const builder = new xml2js.Builder();
+const xmlbuilder = new xml2js.Builder();
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cors());
 
-// Read XML Data
-function readXMLData() {
-  const xmlData = fs.readFileSync('data.xml', 'utf-8');
-  return new Promise((resolve, reject) => {
-    parser.parseString(xmlData, (err, result) => {
-      if (err) {
-        reject(err);
-      } else {
-        resolve(result);
-      }
-    });
-  });
+app.get('/api/faqs', async (request, result) => {
+	try {
+		const data = await accessXDB();
+		const faqs = data.faqs.module;
+
+		result.json(faqs);
+	} catch (error) {
+		result.status(500).json({ error: 'Failed to complete request' });
+	}
+});
+
+//GET ALL MODULES OPERATION
+app.get('/api/faqs/:code', async (request, result) => {
+	try {
+		const data = await accessXDB();
+		const faqs = data.faqs.module;
+		const module = faqs.find((item) => item.code === request.params.code);
+		if (module) {
+		result.json(module);
+	} else {
+		result.status(404).json({ error: 'Module not found' });
+	}
+	} catch (error) {
+		result.status(500).json({ error: 'Failed to complete request' });
+	}
+});
+
+//GET SPECIFIC MODULES OPERATION
+app.post('/api/faqs/:code', async (request, result) => {
+	try {
+		const data = await accessXDB();
+		const faqs = data.faqs.module;
+		const module = faqs.find((item) => item.code === request.params.code);
+		if (module) {
+		module.faq.push(request.body);
+		updateXDB(data);
+		result.status(201).json({ message: 'FAQ created successfully' });
+		} else {
+		result.status(404).json({ error: 'Module not found' });
+		}
+	} catch (error) {
+		result.status(500).json({ error: 'Failed to create FAQ' });
+	}
+});
+
+// PUT MODULE OPERATION
+app.put('/api/faqs/:code/:priority', async (request, result) => {
+	try {
+		const data = await accessXDB();
+		const faqs = data.faqs.module;
+		const module = faqs.find((item) => item.code === request.params.code);
+		if (module) {
+		const faq = module.faq.find((item) => item.priority === request.params.priority);
+		if (faq) {
+			faq.tags = request.body.tags;
+			faq.question = request.body.question;
+			faq.answer = request.body.answer;
+			updateXDB(data);
+			result.json({ message: 'FAQ updated successfully' });
+		} else {
+			result.status(404).json({ error: 'FAQ not found' });
+		}
+		} else {
+		result.status(404).json({ error: 'Module not found' });
+		}
+	} catch (error) {
+		result.status(500).json({ error: 'Failed to update FAQ' });
+	}
+});
+
+// DELETE EXISTING MODULE OPERATION
+app.delete('/api/faqs/:code/:priority', async (request, result) => {
+	try {
+		const data = await accessXDB();
+		const faqs = data.faqs.module;
+		const module = retrieveModule(faqs, request.params.code);
+		if (module) {
+			const faqInd = findFAQIndex(module.faq, request.params.priority);
+			if (faqInd !== -1) {
+				module.faq.splice(faqInd, 1);
+				updateXDB(data);
+				result.json({ message: 'FAQ deleted successfully' });
+			} else {
+				result.status(404).json({ error: 'FAQ not found' });
+			}
+		} else {
+		result.status(404).json({ error: 'Module not found' });
+		}
+	} catch (error) {
+		result.status(500).json({ error: 'Failed to delete FAQ' });
+	}
+});
+
+function accessXDB() {
+	const xmlData = fs.readFileSync('data.xml', 'utf-8');
+	return new Promise((resolve, reject) => {
+		parser.parseString(xmlData, (error, result) => {
+		error ? reject(error) : resolve(result);
+		});
+	});
 }
 
-// Update XML Data
-function updateXMLData(data) {
-  const xmlData = builder.buildObject(data);
-  fs.writeFileSync('data.xml', xmlData);
+function updateXDB(data) {
+	const xmlData = xmlbuilder.buildObject(data);
+	fs.writeFileSync('data.xml', xmlData);
 }
 
-// Retrieve all FAQs
-app.get('/api/faqs', async (req, res) => {
-  try {
-    const data = await readXMLData();
-    const faqs = data.faqs.module;
-    res.json(faqs);
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to fetch FAQs' });
-  }
-});
+function retrieveModule(modules, code){
+	var module = null;
+	for (let m = 0; m < modules.length; m++){
+		if (modules[m].code == code){
+			module = modules[m];
+		}
+	}
+	return module;
+}
 
-// Retrieve a specific FAQ
-app.get('/api/faqs/:code', async (req, res) => {
-  try {
-    const data = await readXMLData();
-    const faqs = data.faqs.module;
-    const module = faqs.find((item) => item.code === req.params.code);
-    if (module) {
-      res.json(module);
-    } else {
-      res.status(404).json({ error: 'Module not found' });
-    }
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to fetch FAQs' });
-  }
-});
-
-// Create a new FAQ
-app.post('/api/faqs/:code', async (req, res) => {
-  try {
-    const data = await readXMLData();
-    const faqs = data.faqs.module;
-    const module = faqs.find((item) => item.code === req.params.code);
-    if (module) {
-      module.faq.push(req.body);
-      updateXMLData(data);
-      res.status(201).json({ message: 'FAQ created successfully' });
-    } else {
-      res.status(404).json({ error: 'Module not found' });
-    }
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to create FAQ' });
-  }
-});
-
-// Update an existing FAQ
-app.put('/api/faqs/:code/:priority', async (req, res) => {
-  try {
-    const data = await readXMLData();
-    const faqs = data.faqs.module;
-    const module = faqs.find((item) => item.code === req.params.code);
-    if (module) {
-      const faq = module.faq.find((item) => item.priority === req.params.priority);
-      if (faq) {
-        faq.tags = req.body.tags;
-        faq.question = req.body.question;
-        faq.answer = req.body.answer;
-        updateXMLData(data);
-        res.json({ message: 'FAQ updated successfully' });
-      } else {
-        res.status(404).json({ error: 'FAQ not found' });
-      }
-    } else {
-      res.status(404).json({ error: 'Module not found' });
-    }
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to update FAQ' });
-  }
-});
-
-// Delete an existing FAQ
-app.delete('/api/faqs/:code/:priority', async (req, res) => {
-  try {
-    const data = await readXMLData();
-    const faqs = data.faqs.module;
-    const module = faqs.find((item) => item.code === req.params.code);
-    if (module) {
-      const faqIndex = module.faq.findIndex((item) => item.priority === req.params.priority);
-      if (faqIndex !== -1) {
-        module.faq.splice(faqIndex, 1);
-        updateXMLData(data);
-        res.json({ message: 'FAQ deleted successfully' });
-      } else {
-        res.status(404).json({ error: 'FAQ not found' });
-      }
-    } else {
-      res.status(404).json({ error: 'Module not found' });
-    }
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to delete FAQ' });
-  }
-});
+function findFAQIndex(moduleFaqs, faqPriority){
+	var ind = -1;
+	for (let f = 0; f < moduleFaqs.length; f++){
+		if (module[f].priority == faqPriority){
+		ind = f;
+		}
+	}
+	return ind;
+}
 
 // Start the server
 app.listen(3000, () => {
-  console.log('Server is running on port 3000');
+	console.log('Server is running on port 3000');
 });
