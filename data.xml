@@ -40,10 +40,6 @@ XSL-FO, DTD, XML Schema, and namespaces) as a vital part of the web development 
       <question>Where can I get the study guide?</question>
       <answer>ClickUP</answer>
     </faq>
-    <faq>
-      <question>why is it so difficult?</question>
-      <answer>Because.</answer>
-    </faq>
   </module>
   <module>
     <code>IMY211</code>
@@ -75,15 +71,11 @@ architecture, websites and the social realities and impact of the World Wide Web
       <question>How many credits does this module have?</question>
       <answer>A minimum of 20.00</answer>
     </faq>
-	<faq>
-		<priority>20</priority>
-		<tags />
-		<question>Where can I get the study guide?</question>
-		<answer>ClickUP</answer>
-	</faq>
     <faq>
-      <question>this is frustration</question>
-      <answer>yes</answer>
+      <priority>20</priority>
+      <tags/>
+      <question>Where can I get the study guide?</question>
+      <answer>ClickUP</answer>
     </faq>
   </module>
 </faqs>
