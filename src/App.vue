@@ -1,17 +1,13 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
   <apiCalls msg="Trying things"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import apiCalls from './components/apiCalls.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
     apiCalls,
   }
 }

@@ -8,8 +8,8 @@
     <faq>
       <priority>10</priority>
       <tags>
-        <tag>Description</tag>
-        <tag>About module</tag>
+        <tag>description</tag>
+        <tag>about</tag>
       </tags>
       <question>What is this module about?</question>
       <answer>Advanced Markup Languages 1. This module investigates XML and its related technologies (such as XSLT, XPath,&#xD;
@@ -28,8 +28,8 @@ XSL-FO, DTD, XML Schema, and namespaces) as a vital part of the web development 
     <faq>
       <priority>23</priority>
       <tags>
-        <tag>Credits</tag>
-        <tag>Study time</tag>
+        <tag>credits</tag>
+        <tag>time</tag>
       </tags>
       <question>How many credits does this module have?</question>
       <answer>A minimum of 16.00</answer>
@@ -47,8 +47,8 @@ XSL-FO, DTD, XML Schema, and namespaces) as a vital part of the web development 
     <faq>
       <priority>10</priority>
       <tags>
-        <tag>Description</tag>
-        <tag>About module</tag>
+        <tag>description</tag>
+        <tag>about</tag>
       </tags>
       <question>What is this module about?</question>
       <answer>This module offers the opportunity to make a thorough study of the theory&#xD;
@@ -65,11 +65,133 @@ architecture, websites and the social realities and impact of the World Wide Web
     <faq>
       <priority>23</priority>
       <tags>
-        <tag>Credits</tag>
-        <tag>Study time</tag>
+        <tag>credits</tag>
+        <tag>time</tag>
       </tags>
       <question>How many credits does this module have?</question>
       <answer>A minimum of 20.00</answer>
+    </faq>
+    <faq>
+      <priority>20</priority>
+      <tags/>
+      <question>Where can I get the study guide?</question>
+      <answer>ClickUP</answer>
+    </faq>
+  </module>
+  <module>
+    <code>IMY120</code>
+    <name>Multimedia for the Web.</name>
+    <faq>
+      <priority>11</priority>
+      <tags>
+        <tag>description</tag>
+        <tag>about</tag>
+      </tags>
+      <question>What is this module about?</question>
+      <answer>This module introduces the process of creating and editing images, animation, basic
+				interactive content, and sound for the web using multimedia authoring tools, such as
+				Adobe Photoshop, Adobe
+				Flash (with basic ActionScript), and Adobe Audition.</answer>
+    </faq>
+    <faq>
+      <priority>16</priority>
+      <tags>
+	  	<tag>year</tag>
+      </tags>
+      <question>Year of Study?</question>
+      <answer>IMY211 is a 1st year module</answer>
+    </faq>
+    <faq>
+      <priority>23</priority>
+      <tags>
+        <tag>credits</tag>
+        <tag>time</tag>
+      </tags>
+      <question>How many credits does this module have?</question>
+      <answer>A minimum of 12.00</answer>
+    </faq>
+    <faq>
+      <priority>20</priority>
+      <tags/>
+      <question>Where can I get the study guide?</question>
+      <answer>ClickUP</answer>
+    </faq>
+  </module>
+  <module>
+    <code>INL120</code>
+    <name>Introduction to Information Science.</name>
+    <faq>
+      <priority>11</priority>
+      <tags>
+        <tag>description</tag>
+        <tag>about</tag>
+      </tags>
+      <question>What is this module about?</question>
+      <answer>This module is an introduction to the study field of information science and
+				its various professions. Key concepts that will be discussed include the following:
+				the human as information
+				processor and user; the life-cycle of information in terms of processes, products
+				and role-players; as well as the
+				communication of information. The social-ethical impact of globalisation is included
+				as a key concern, with
+				reference to Africa, the 4th Industrial Revolution and other revolutions to come are
+				addressed as well as core
+				principles such as equity, diversity and inclusion.</answer>
+    </faq>
+    <faq>
+      <priority>17</priority>
+      <tags>
+	  	<tag>year</tag>
+      </tags>
+      <question>Year of Study?</question>
+      <answer>INL120 is a 1st year module</answer>
+    </faq>
+    <faq>
+      <priority>23</priority>
+      <tags>
+        <tag>credits</tag>
+        <tag>time</tag>
+      </tags>
+      <question>How many credits does this module have?</question>
+      <answer>A minimum of 12.00</answer>
+    </faq>
+    <faq>
+      <priority>20</priority>
+      <tags/>
+      <question>Where can I get the study guide?</question>
+      <answer>ClickUP</answer>
+    </faq>
+  </module>
+  <module>
+    <code>VIO102</code>
+    <name>Visual design</name>
+    <faq>
+      <priority>10</priority>
+      <tags>
+        <tag>description</tag>
+        <tag>about</tag>
+      </tags>
+      <question>What is this module about?</question>
+      <answer>Introduction to elements and principles of design, typography and layout. Application
+				of visual principles and
+				techniques. Media characteristics. The design process.</answer>
+    </faq>
+    <faq>
+      <priority>14</priority>
+      <tags>
+	  	<tag>year</tag>
+      </tags>
+      <question>Year of Study?</question>
+      <answer>VIO102 is a 1st year module</answer>
+    </faq>
+    <faq>
+      <priority>23</priority>
+      <tags>
+        <tag>credits</tag>
+        <tag>time</tag>
+      </tags>
+      <question>How many credits does this module have?</question>
+      <answer>A minimum of 12.00</answer>
     </faq>
     <faq>
       <priority>20</priority>

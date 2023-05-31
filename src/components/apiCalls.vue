@@ -1,38 +1,193 @@
-	<template>
-	<div>
-		<h2>Search About Modules</h2>
-		<button v-for="module in modules" :key="module.code" @click="fetchFAQs(module.code)">
-		{{ module.code }}
-		</button>
-		<div v-if="selectedModule">
-		<input type="text" v-model="searchTerm" placeholder="Search FAQs" />
-		<ul style="background-color: white;">
-			<li v-for="faq in filteredFAQs" :key="faq.priority">
-			<h4>Question: {{ faq.question }}</h4>
-			<p>Answer: {{ faq.answer }}</p>
-			<button @click="editQuestion(faq)">Edit</button>
-			<button @click="deleteQuestion(faq)">Delete</button>
-			</li>
-		</ul>
-		<input type="text" v-model="newFaq.question" placeholder="Add a question" />
-		<input type="text" v-model="newFaq.answer" placeholder="Add an answer" />
-		<button @click="addQuestion">Submit</button>
+<template>
+	<div class="container">
+		<h1 class="module-title">Modules FAQs</h1>
+		<div class="module-selection">
+			<div class="flex-filler"></div>
+			<h2 v-if="selectedModule" class="heading">{{ this.selectedModule }}</h2>
+			<h2 v-else class="heading">Please Select a Module</h2>
+			<select v-model="selectedModule" @click="fetchFAQs(selectedModule)">
+				<option v-for="module in modules" :key="module.code" class="module-option">
+					{{ module.code }}
+				</option>
+			</select>
+			<div class="flex-filler"></div>
+		</div>
+		<div v-if="selectedModule" class="faq-container">
+			<input type="text" v-model="searchTerm" placeholder="Search FAQs" class="search-input" />
+			<ul class="faq-list">
+				<li v-for="faq in filteredFAQs" :key="faq.priority" class="faq-card">
+					<div class="faq-actions">
+						<button @click="editQuestion(faq)" class="edit-button">
+							<img src="../assets/edit.svg">
+						</button>
+						<button @click="deleteQuestion(faq)" class="delete-button">
+							<img src="../assets/remove.svg">
+						</button>
+					</div>
+					<h3 class="faq-question">{{ faq.question }}</h3>
+					<p class="faq-answer">{{ faq.answer }}</p>
+					<span class="faq-priority">Question Priority: {{ faq.priority }}</span>
+				</li>
+			</ul>
+			<div class="add-faq">
+				<input type="text" v-model="newFaq.question" placeholder="Add a question" class="add-question" />
+				<input type="text" v-model="newFaq.answer" placeholder="Add an answer" class="add-answer" />
+				<button @click="addQuestion" class="submit-button">Submit</button>
+			</div>
 		</div>
 	</div>
-	</template>
+</template>
+<style>
+.container {
+	margin: 60px;
+}
 
+.module-title {
+	text-align: center;
+}
+
+.module-selection {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.heading{
+	height: 100%;
+	flex: 1;
+}
+
+.module-options{
+	height: 100%;
+	flex: 1;
+}
+
+.module-options select{
+	width: 70px;
+	height: 30px;
+}
+
+.module-button {
+	margin: 5px;
+	padding: 8px 16px;
+	background-color: #faeacc;
+	border: none;
+	border-radius: 7px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.faq-container {
+	margin-top: 30px;
+}
+
+.search-input {
+	width: 100%;
+	padding: 8px;
+	margin-bottom: 20px;
+}
+
+.faq-list {
+	list-style: none;
+	padding: 0;
+	/* max-height: 250px; */
+	overflow-y: auto;
+}
+
+.faq-card {
+	background-color: #dbf3e5;
+	border-radius: 7px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.faq-question {
+	font-size: 1.5em;
+	margin-bottom: 5px;
+}
+
+.faq-answer {
+	font-size: 1.1em;
+}
+
+.faq-actions {
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 5px;
+}
+
+.edit-button,
+.delete-button {
+	width: 30px;
+	height: 30px;
+	border-radius: 7px;
+	background-color: #f9dbbd;
+	margin-left: 5px;
+	font-size: 0.9em;
+}
+
+.faq-priority {
+	font-size: 0.9em;
+	margin-top: 5px;
+	color: #888;
+}
+
+.add-faq {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+.add-question,
+.add-answer,
+.submit-button {
+	margin-bottom: 10px;
+	display: block;
+	width: 200px;
+	padding: 8px;
+}
+
+.submit-button {
+	background-color: #f9dbbd;
+	border: none;
+	border-radius: 7px;
+	cursor: pointer;
+}
+
+@media (max-width: 600px) {
+	.container {
+		margin: 20px;
+	}
+}
+
+.delete-button, .edit-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.flex-filler{
+	flex: 1;
+}
+</style>
 	<script>
 
-	export default {
-	name: 'apiCalls',
-	data() {
-		return {
-		modules: [],
-		selectedModule: null,
-		faqs: [],
-		searchTerm: '',
-		newFaq: { "priority": 0, "tags": [], "question": "", "answer": ""},
-		};
+		export default {
+			name: 'apiCalls',
+			data() {
+				return {
+					modules: [],
+					selectedModule: null,
+					faqs: [],
+					searchTerm: '',
+					newFaq: { "priority": 0, "tags": [], "question": "", "answer": ""},
+				};
 	},
 	mounted() {
 		this.fetchModules();
